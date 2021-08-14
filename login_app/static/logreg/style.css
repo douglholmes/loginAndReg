@@ -1,0 +1,23 @@
+
+#registration {
+    width: 30%;
+    margin: 60px auto;
+    padding: 60px 120px 80px 120px;
+    text-align: center;
+    float: left;
+}
+
+#login  {
+    margin: 60px auto;
+    padding: 60px 120px 80px 120px;
+    text-align: center;
+    float: left;
+}
+
+label {  
+    display: block;  
+    position: relative;  
+    margin: 40px 0px; 
+}
+
+
